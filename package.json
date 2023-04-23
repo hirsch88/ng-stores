@@ -18,6 +18,13 @@
     "@angular/platform-browser": "^15.2.0",
     "@angular/platform-browser-dynamic": "^15.2.0",
     "@angular/router": "^15.2.0",
+    "@baloise/design-system-components-angular": "^12.12.0",
+    "@ngneat/elf": "^2.3.1",
+    "@ngneat/elf-cli-ng": "^1.0.0",
+    "@ngneat/elf-devtools": "^1.2.1",
+    "@ngneat/elf-entities": "^4.4.4",
+    "@ngrx/store": "^15.4.0",
+    "@ngrx/store-devtools": "^15.4.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"

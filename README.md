@@ -1,5 +1,12 @@
 # NgStore
 
+- [Standalone Components](https://angular.io/guide/standalone-components)
+- [ngFor](https://blog.angular-university.io/angular-2-ngfor/)
+- [RxJS Store](https://medium.com/@gordonchendev/angular-rxjs-store-f43f27ffbbc4)
+- [NgRx Store](https://ngrx.io/)
+- [NgRx Store with Standalone](https://dev.to/ngrx/using-ngrx-packages-with-standalone-angular-features-53d8)
+- [Elf, A Reactive Store with Magical Powers](https://ngneat.github.io/elf/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
 ## Development server
